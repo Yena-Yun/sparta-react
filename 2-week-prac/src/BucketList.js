@@ -15,7 +15,7 @@ const BucketList = (props) => {
             })}
         </ListStyle>
     );
-}
+};
 
 const ListStyle = styled.div`
     display: flex;
